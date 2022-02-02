@@ -1,4 +1,5 @@
 # python version: Python 3.10.0
+# pip install -r requirements.txt / all package install
 
 click==8.0.3
 Flask==2.0.2
